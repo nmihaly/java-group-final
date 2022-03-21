@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EurekaServiceRegistry/EurekaServiceRegistry.iml" filepath="$PROJECT_DIR$/EurekaServiceRegistry/EurekaServiceRegistry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archive-cloud-service/archive-cloud-service.iml" filepath="$PROJECT_DIR$/archive-cloud-service/archive-cloud-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archive-config-service/archive-config-service.iml" filepath="$PROJECT_DIR$/archive-config-service/archive-config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-group-final.iml" filepath="$PROJECT_DIR$/.idea/java-group-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/random-topic-service/random-topic-service.iml" filepath="$PROJECT_DIR$/random-topic-service/random-topic-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/record-collection.iml" filepath="$PROJECT_DIR$/back-end/record-collection.iml" />
+    </modules>
+  </component>
+</project>
